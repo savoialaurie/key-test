@@ -1,6 +1,3 @@
-.transform-test{
-  background-color: #3366CC;
-  transform-origin: : center center;
-  transform-origin: 0 0;
-  transform: rotate(45deg);
+body{
+  background-color: blue;
 }
